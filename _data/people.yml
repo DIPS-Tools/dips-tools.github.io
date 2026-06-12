@@ -1,0 +1,82 @@
+# Members of the DIPS Lab, displayed on the /people/ page in the order defined here.
+# Each member supports: name, role, image (under assets/img/people/), website, scholar.
+
+- group: Head of Lab
+  members:
+    - name: Prof. George Konstantinidis
+      role: Lab Director
+      image: assets/img/people/george_k.jpg
+      website: https://www.konstantinidis.org
+      scholar: https://scholar.google.com/citations?user=dg3_PMoAAAAJ&hl=en
+
+- group: Postdoctoral Researchers
+  members:
+    - name: Dr. Paolo Pareti
+      role: Senior Research Fellow
+      image: assets/img/people/paolo.jpg
+      website: https://paolopareti.uk/html/homepage/index.htm
+      scholar: https://scholar.google.com/citations?user=ODPnNxQAAAAJ&hl=en
+    - name: Dr. Soulmaz Gheisari
+      role: Research Fellow
+      image: assets/img/people/soulmaz.jpeg
+      scholar: https://scholar.google.com/citations?hl=en&user=5ZY2CaIAAAAJ
+    - name: Dr. Adeel Aslam
+      role: Research Fellow
+      image: assets/img/people/adeel.jpg
+      scholar: https://scholar.google.com/citations?hl=en&user=ocBPt2AAAAAJ
+    - name: Dr. Jaime Salas
+      role: Research Fellow
+      scholar: https://scholar.google.com/citations?hl=en&user=IGmlLY0AAAAJ
+    - name: Dr. Bijay Prasad Jaysawal
+      role: Research Fellow
+      image: assets/img/people/bijay.jpg
+      website: https://sites.google.com/jaysawal.com.np/bijay/
+      scholar: https://scholar.google.com/citations?hl=en&user=L6uf8VAAAAAJ
+    - name: Dr. Miao Hu
+      role: Research Fellow
+      image: assets/img/people/miao.jpg
+      scholar: https://scholar.google.com/citations?hl=en&user=rZREsw8AAAAJ
+    - name: Dr. George Giamouridis
+      role: Research Fellow
+      image: assets/img/people/george_g.jpg
+      website: https://georgegiamouridis.com/
+      scholar: https://scholar.google.com/citations?hl=en&user=9ytistYAAAAJ
+    - name: Dr. Christopher Maidens
+      role: Research Fellow
+
+- group: PhD Students
+  members:
+    - name: Wenbo Wu
+      role: PhD Researcher
+      image: assets/img/people/wenbo.jpg
+      website: https://hiuiwb.com/
+      scholar: https://scholar.google.com/citations?hl=en&user=dMLp6KsAAAAJ
+    - name: Sam Richardson
+      role: PhD Researcher
+    - name: Wenxuan Huang
+      role: PhD Researcher
+    - name: Xinzhuo Li
+      role: PhD Researcher
+
+- group: Past Members
+  members:
+    - name: Dr. Semih Yumusak
+      role: Research Fellow
+      scholar: https://scholar.google.com/citations?user=Esj8FWgAAAAJ&hl=en
+    - name: Dr. Tek Raj Chhetri
+      role: Research Fellow
+      website: https://tekrajchhetri.com/
+      scholar: https://scholar.google.com/citations?user=QfpwmIIAAAAJ&hl=en
+    - name: Dr. Syed Atif Moqurrab
+      role: Research Fellow
+      scholar: https://scholar.google.com/citations?user=Rrs55QEAAAAJ&hl=en
+    - name: Dr. Nina Pardal
+      role: Research Fellow
+      website: https://glyc.dc.uba.ar/nina/
+      scholar: https://scholar.google.com/citations?user=LLYQ83IAAAAJ&hl=en
+    - name: Dr. Dorota Filipczuk
+      role: PhD Student
+      scholar: https://scholar.google.com/citations?hl=en&user=mN5FliMAAAAJ
+    - name: Dr. Afnan Alhazmi
+      role: PhD Student
+      scholar: https://scholar.google.com/citations?hl=en&user=omWqAAUAAAAJ
