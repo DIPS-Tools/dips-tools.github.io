@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - DIPS-Tools
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - DIPS-Tools/ODRL_Editor
+  - DIPS-Tools/ODRL-Engine
+  - DIPS-Tools/PolicyEngine
+  - DIPS-Tools/Negotiation-Manager
+  - DIPS-Tools/Contract-Service
+  - DIPS-Tools/Ontology_Service
+  - DIPS-Tools/RepuLink
+  - DIPS-Tools/dips-tools.github.io

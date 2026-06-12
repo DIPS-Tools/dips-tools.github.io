@@ -2,6 +2,7 @@
 layout: page
 title: UPCAST
 description: Universal data market plugins for safe, fair and interoperable data exchange, monetisation and trading
+img: assets/img/projects/UPCAST.png
 importance: 1
 category: work
 related_publications: true

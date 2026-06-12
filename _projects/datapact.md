@@ -2,6 +2,7 @@
 layout: page
 title: DataPACT
 description: Compliance by design of data/AI operations and pipelines
+img: assets/img/projects/datapact.png
 importance: 2
 category: work
 related_publications: true
