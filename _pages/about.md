@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <img class="img-fluid z-depth-1 rounded" src="/assets/img/DAIS.png" alt="DAIS Group">
-    <img class="img-fluid z-depth-1 rounded" style="margin-top: 1rem" src="/assets/img/UoS_Logo.png" alt="University of Southampton">
+    <img class="img-fluid z-depth-1 rounded" style="margin-top: 1rem; margin-bottom: 1.5rem" src="/assets/img/UoS_Logo.png" alt="University of Southampton">
     <p>Building 32,</p>
     <p>University Rd</p>
     <p>Southampton SO17 1TR</p>
