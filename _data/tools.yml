@@ -1,0 +1,23 @@
+# Tools shown on the /tools/ page, grouped by category in display order.
+# Each category has a `category` heading and a list of `tools`.
+# Each tool: icon (emoji), name, description, and optional url (a card is clickable when it has a url).
+
+- category: Online
+  tools:
+    - icon: "📋"
+      name: Policy Engine
+      description: Create, manage, update, store, evaluate, enforce and compare policies for data sharing, access and usage.
+      url: https://dips.soton.ac.uk/policy-editor
+    - icon: "🤝"
+      name: Negotiation & Contracts
+      description: Automated negotiation of data sharing contracts. Negotiate on the price, terms, policies and text of an agreement. Sign, manage and enforce contracts.
+      url: https://dips.soton.ac.uk/negotiation
+
+- category: Coming Soon
+  tools:
+    - icon: "🏆"
+      name: Trust and Reputation Management
+      description: Evaluate the trustworthiness of data sharing partners. Maintain, create and revoke endorsements of trust and reputation.
+    - icon: "✓"
+      name: Consent Management
+      description: Release data requests, manage user consent, revoke, update, and delete consent policies.
