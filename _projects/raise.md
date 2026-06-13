@@ -4,7 +4,7 @@ title: RAISE
 description: Research Analysis Identifier System — from open data to data open for processing
 img: assets/img/projects/EOSC-RAISE.jpg
 importance: 3
-category: work
+category: active
 related_publications: true
 ---
 
