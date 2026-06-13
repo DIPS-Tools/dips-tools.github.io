@@ -40,7 +40,7 @@ nav_order: 7
   }
   .people-card .person-links {
     margin-bottom: 0;
-    font-size: 3em; /* icon size */
+    font-size: 2em; /* icon size */
   }
   .people-card .person-links a {
     margin: 0 0.25rem;
@@ -54,22 +54,13 @@ nav_order: 7
 <div class="people-grid">
   {% for member in group.members %}
     <div class="people-card">
-      {% if member.image %}
-        <img
-          src="{{ member.image | relative_url }}"
-          alt="{{ member.name }}"
-          class="rounded-circle z-depth-1"
-          style="width: 140px; height: 140px; object-fit: cover;"
-        >
-      {% else %}
-        {% assign name_parts = member.name | remove: 'Prof. ' | remove: 'Dr. ' | split: ' ' %}
-        <div
-          class="rounded-circle z-depth-1 d-flex align-items-center justify-content-center"
-          style="width: 140px; height: 140px; margin: 0 auto; background-color: var(--global-divider-color); color: var(--global-text-color); font-size: 2.5rem;"
-        >
-          {{ name_parts.first | slice: 0 }}{{ name_parts.last | slice: 0 }}
-        </div>
-      {% endif %}
+      {% assign member_image = member.image | default: 'assets/img/people/user.png' %}
+      <img
+        src="{{ member_image | relative_url }}"
+        alt="{{ member.name }}"
+        class="rounded-circle z-depth-1"
+        style="width: 140px; height: 140px; object-fit: cover;"
+      >
       <h5 class="person-name">{{ member.name }}</h5>
       <p class="person-role">{{ member.role }}</p>
       <p class="person-links">
